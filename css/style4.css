@@ -1,0 +1,16 @@
+h1{
+  color: orange;
+}
+
+form{
+  margin-left: 10%;
+  color: purple;
+}
+
+.color{
+  color:purple;
+}
+
+#submitBut{
+  background-color: orange;
+}
